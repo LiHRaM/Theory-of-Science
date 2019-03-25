@@ -1,1 +1,4 @@
-matplotlib.pyplot
+matplotlib
+scipy
+numpy
+python-tk
